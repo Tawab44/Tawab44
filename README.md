@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tawab
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in solving business problems and frontend development
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me -tawabshaikh14444@gmail.com
 
