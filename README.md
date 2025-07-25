@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tawab
 - 👀 I’m interested in solving business problems and frontend development
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning MERN stack and machine learning.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me -tawabshaikh14444@gmail.com
 
